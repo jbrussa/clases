@@ -1,0 +1,15 @@
+
+                                                                               IP
+                                                                               
+IP -> for 0 to 255
+ private -> 10. ..../ 192.168. ..../ 176. ....
+ public->las demás.The routers and others internet connected devices. Also when you use 4G.
+ 
+           Internet ----- server
+         /   
+      Router - public IP
+       - Phones, tv , computers - private IP
+       
+DNS - Domain Name System - assigns and save the domains
+Dominain -> IP pública
+The program opens in your browser - source code
